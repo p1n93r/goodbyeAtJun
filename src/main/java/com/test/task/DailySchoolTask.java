@@ -44,7 +44,7 @@ public class DailySchoolTask {
                     }
                 } catch (Exception e) {
                     //如果发生了异常
-                    EmailUtils.sendEmail(v.getEmail(),"再见吧！@艾特君~","程序异常："+e.getMessage());
+                    EmailUtils.sendEmail("1725367974@qq.com","再见吧！@艾特君~","程序异常："+e.getMessage());
                 }
             }
         }
