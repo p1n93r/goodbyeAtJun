@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="MySQL8 - @localhost" uuid="6c6e4795-1abf-4f45-a0da-180909c56543">
+      <driver-ref>989f1242-1d66-465a-a953-c71a7811fc42</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306?serverTimezone=GMT</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="remote" uuid="3e4aee50-27a0-4bb4-91c7-480ad3c93696">
+      <driver-ref>989f1242-1d66-465a-a953-c71a7811fc42</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://cdb-e85utbv0.cd.tencentcdb.com:10121/go_to_hell</jdbc-url>
+    </data-source>
+  </component>
+</project>
