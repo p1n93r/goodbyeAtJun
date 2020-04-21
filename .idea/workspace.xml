@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bacec88e-20d2-444b-8228-bf4544991ad3" name="Default Changelist" comment="" />
+    <list default="true" id="bacec88e-20d2-444b-8228-bf4544991ad3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +70,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -88,6 +93,7 @@
     <option name="vmOptions" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true -Dmaven.wagon.http.ssl.ignore.validity.dates=true -DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectId" id="1aefcGScwYP1hR2TclzO2wJMcBb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -96,6 +102,7 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="989f1242-1d66-465a-a953-c71a7811fc42" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="js.last.introduce.type" value="VAR" />
@@ -336,7 +343,7 @@
       <workItem from="1587314245133" duration="11932000" />
       <workItem from="1587341729992" duration="1346000" />
       <workItem from="1587361226890" duration="34695000" />
-      <workItem from="1587449583416" duration="19576000" />
+      <workItem from="1587449583416" duration="19860000" />
     </task>
     <servers />
   </component>
