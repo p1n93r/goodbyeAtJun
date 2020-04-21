@@ -13,6 +13,6 @@ Email：<a href="mailto:1725367974@qq.com">1725367974@qq.com</a>
 3. 定时任务的设置在resources/spring/applicationContextTask内，对应的Task类在包task下。（防止同一时间Task执行多次，此处避免用注解）。
 
 ## 直接使用
-地址：<a href="http://106.13.6.229:33579/daka/base">再见吧！@艾特君</a>
+地址：<a target="_blank" href="http://106.13.6.229:33579/daka/base">再见吧！@艾特君</a>
 
 ***Notice:*** 目前仅支持天理的软工专业（非毕业班）的自动打卡，因为程序中存在硬编码，其他专业或者学校不能使用。
