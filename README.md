@@ -11,3 +11,8 @@ Email：<a href="mailto:1725367974@qq.com">1725367974@qq.com</a>
 1. 如果你需要在自己服务器运行本项目，需要修改resources下的：api/key.properties、email/email.properties、mysql/db.properties。（里面需要修改的部分我已用“xxx”打码）。
 2. 自动打卡的核心代码在utils.TodayAppUtils工具类内，如果发生了问卷调查题目变化，也是从中修改。（设计的不好，应该通过加载属性文件的方式来适配问卷题目变化）。
 3. 定时任务的设置在resources/spring/applicationContextTask内，对应的Task类在包task下。（防止同一时间Task执行多次，此处避免用注解）。
+
+## 直接使用
+地址：<a href="http://106.13.6.229:33579/daka/base">再见吧！@艾特君</a>
+
+***Notice:*** 目前仅支持天理的软工专业（非毕业班）的自动打卡，因为程序中存在硬编码，其他专业或者学校不能使用。
