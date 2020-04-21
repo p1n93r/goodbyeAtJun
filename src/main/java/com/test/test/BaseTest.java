@@ -28,17 +28,7 @@ public class BaseTest {
 
 
     public static void main(String[] a) throws HttpProcessException {
-        User user = new User();
-        user.setNum("20174041");
-        user.setPwd("088454cg_CG");
-        Boolean aa = TodayAppUtils.isUserUseful(user);
-        user.setPwd("088454cg_CG");
-        Boolean b = TodayAppUtils.isUserUseful(user);
-        user.setPwd("09123");
-        Boolean c = TodayAppUtils.isUserUseful(user);
-        System.out.println(aa);
-        System.out.println(b);
-        System.out.println(c);
+
     }
 
 
