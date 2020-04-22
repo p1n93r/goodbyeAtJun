@@ -7,10 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bacec88e-20d2-444b-8228-bf4544991ad3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/task/DailySchoolTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/task/DailySchoolTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring/applicationContextTask.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring/applicationContextTask.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -360,6 +357,7 @@
       <workItem from="1587361226890" duration="34695000" />
       <workItem from="1587449583416" duration="20158000" />
       <workItem from="1587472944246" duration="1947000" />
+      <workItem from="1587540411267" duration="7000" />
     </task>
     <servers />
   </component>
