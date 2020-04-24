@@ -32,6 +32,8 @@ public final class TodayAppUtils {
      */
     public static TodayAppUtils getInstance(User user) throws Exception {
         TODAY_APP_UTILS.user=user;
+        //记得初始化状态，否则不能submit
+        TODAY_APP_UTILS.isSubmit=false;
         TODAY_APP_UTILS .init(user);
         return TODAY_APP_UTILS ;
     }

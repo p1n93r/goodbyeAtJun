@@ -7,7 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bacec88e-20d2-444b-8228-bf4544991ad3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/resources/spring/applicationContextTask.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring/applicationContextTask.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/utils/TodayAppUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/utils/TodayAppUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -357,7 +358,11 @@
       <workItem from="1587361226890" duration="34695000" />
       <workItem from="1587449583416" duration="20158000" />
       <workItem from="1587472944246" duration="1947000" />
-      <workItem from="1587540411267" duration="7000" />
+      <workItem from="1587540411267" duration="133000" />
+      <workItem from="1587545813398" duration="311000" />
+      <workItem from="1587546654393" duration="600000" />
+      <workItem from="1587556740871" duration="931000" />
+      <workItem from="1587699454773" duration="65000" />
     </task>
     <servers />
   </component>
